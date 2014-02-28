@@ -41,7 +41,7 @@
 						$date = $row['topic_date'];
 						$creator = $row['topic_creator'];
 						
-						$topics .= "<tr><td><a href='view_topic.php?cid=".$cid."$tid=".$tid."'>".$title."</a><br /><span class='post_info'>Posted by: ".$_SESSION['username']." on ".$date."</span></td><td align='center'>0</td><td align='center'>".$views."</td></tr>";
+						$topics .= "<tr><td><a href='view_topic.php?cid=".$cid."$tid=".$tid."'>".$title."</a><br /><span class='post_info'>Posted by: ".$creator." on ".$date."</span></td><td align='center'>0</td><td align='center'>".$views."</td></tr>";
 						$topics .= "<tr><td colspan='3'><hr /></td></tr>";
 						
 						

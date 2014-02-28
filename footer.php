@@ -25,8 +25,8 @@
   
 </td></tr></table> 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="\Otaku-Cloud/js/jquery.js"></script>
-    <script src="\Otaku-Cloud/js/bootstrap.js"></script>
+    <script src="/Otaku-Cloud/js/jquery.js"></script>
+    <script src="/Otaku-Cloud/js/bootstrap.js"></script>
 	
 <script type="text/javascript">
 $(function(){

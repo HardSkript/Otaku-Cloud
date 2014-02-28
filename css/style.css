@@ -1,4 +1,4 @@
-body{
+Otaku-Cloud{
 	background-color: #BFBFBF;
 }
 
@@ -27,8 +27,7 @@ div#wrapperHeader div#header img {
     margin: 0 auto; 
     width: 950px; 
     margin-top: 45px; 
-    margin-bottom: 50px; 
-    background-image: url('images/h-bg.jpg'); 
+    margin-bottom: 50px;  
     background-position: top left; 
     background-repeat: repeat-x; 
 } 
@@ -66,7 +65,7 @@ div#wrapperHeader div#header img {
     border: 1px solid #000000;
     margin-bottom: 5px;
     background-color: #cccccc;
-    background-image: url("/clockwork/images/cat_bg.png");
+    background-image: url("/Otaku-Cloud/images/cat_bg.png");
     color: #000000;
 }
 

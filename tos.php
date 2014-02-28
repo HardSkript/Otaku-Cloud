@@ -1,0 +1,5 @@
+<?php include('header.php'); ?>
+	<h1 style="padding-left: 10px;">Otaku Cloud Terms of Service</h1>
+
+	<p style="padding-left: 10px;">By accessing and using the Otaku Cloud website, you agree to abide by all of the communites terms and conditions. ANY PARTICIPATION IN THIS SITE WILL CONSTITUTE ACCEPTANCE OF THIS AGREEMENT. IF YOU DO NOT AGREE TO ABIDE BY THE ABOVE, PLEASE DO NOT USE THIS SITE. Otaku Cloud is a non-profit online network. All donations recieved from the public are used only for the purpose of improving the site and it's systems. We will store your personal information, but will not share it with any third parties, except as necessary to provide the services offered. For example, we may store your personal information along with your files and data on a third party server such as Amazon Web Services. This site and its components are offered for informational purposes only; this site shall not be responsible or liable for the accuracy, usefulness or availability of any information transmitted or made available via the site, and shall not be responsible or liable for any error or omissions in that information</p>
+<?php include('footer.php'); ?>

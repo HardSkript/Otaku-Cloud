@@ -53,9 +53,8 @@
       <li class="dropdown">
         <a href="staff.php" class="dropdown-toggle" data-toggle="dropdown">Staff List <b class="caret"></b></a>
         <ul class="dropdown-menu">
-          <li><a href="#">Kyal Cantwell</a></li>
-          <li><a href="#">Nick Harrison</a></li>
-          <li><a href="#">Noah Wilson</a></li>
+			<li><a href="staff.php">John Carpenter - <span style="color: blue;">Mgr.</span></a></li>
+			<li><a href="staff.php">Kyal Cantwell - <span style="color: blue;">Dev</span></a></li>
         </ul>
       </li>
     </ul>

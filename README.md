@@ -5,6 +5,6 @@ Otaku Cloud
 
 A brand new website in the making for anime addicts everywhere!
 
-Domain has not yet been purchased, but it will be released as soon as we have everything situated!
+You can find the site at http://www.otakucloud.net, please be patient while we are still adding onto the site.
 
 -Otaku Cloud Team
